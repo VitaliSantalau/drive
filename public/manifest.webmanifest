@@ -1,0 +1,1 @@
+{"name":"Green-Drive","short_name":"GDrive","start_url":"/","background_color":"rgb(174, 211, 212)","theme_color":"rgb(174, 211, 212)","display":"standalone","icons":[{"src":"src/images/maskable_icon_x512.png?v=bfe3274574f8d6c241f8190ebefbf4b2","sizes":"512x512","type":"image/png","purpose":"any maskable"}],"cacheDigest":"bfe3274574f8d6c241f8190ebefbf4b2"}
