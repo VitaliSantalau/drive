@@ -17,10 +17,10 @@ module.exports = {
         name: `Green-Drive`,
         short_name: `GDrive`,
         start_url: `/`,
-        background_color: `rgb(174, 211, 212)`,
-        theme_color: `rgb(174, 211, 212)`,
+        background_color: `#ffffff`,
+        theme_color: `#ffffff`,
         display: `standalone`,
-        icon: "src/images/cart.png",
+        icon: "src/images/icon.png",
         display: "standalone",
         icons: [
           {
